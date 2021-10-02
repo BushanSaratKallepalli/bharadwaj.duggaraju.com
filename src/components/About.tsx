@@ -129,7 +129,7 @@ const About: React.FC = () => {
                 </AboutName>
 
                 <ContentWrapper>
-                Hey! I'm <span onClick={() => window.location.href="#"} style={{color: "orange", cursor: "pointer"}}>Bharadwaj Duggaraju</span>, a sales from Washington. I focus on building interactive UI's on the web, mobile,   and desktop. My interest in development started in 2016 through a <span onClick={() => window.location.href="https://scratch.mit.edu"} style={{color: "orange", cursor: "pointer"}}>Scratch</span> programming class.
+                Hi ! I'm <span onClick={() => window.location.href="#"} style={{color: "orange", cursor: "pointer"}}>Sarat Bushan</span>, a business leader with 8 years experience propelling sales & executing growth strategies . Expert at leveraging data insights, process improvement and team development to deliver transformational growth.  <span onClick={() => window.location.href="https://scratch.mit.edu"} style={{color: "orange", cursor: "pointer"}}>Scratch</span> programming class.
                 </ContentWrapper>
                 <ContentWrapper>
                 sarat  <span onClick={() => window.location.href="https://www.worldcubeassociation.org/persons/2017DUGG01"} style={{color: "orange", cursor: "pointer"}}>Rubik's Cubes</span>, Volunteering, Writing, or playing Badminton. 
